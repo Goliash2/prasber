@@ -1,0 +1,7 @@
+{
+  "name": "Prasber",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
